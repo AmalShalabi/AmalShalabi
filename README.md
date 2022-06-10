@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 - Front-end development using **HTML, Javascript,CSS,Bootstrap**.
 - Wix,Canva & Figma Expert.
 - SEO specialist.
-- 📫 How to reach me: mouni.shalaby@gmail.com
-- 🎯 Portfolio site: [Amal-Adv](https://www.amal-adv.com/)
 - 🌱 I’m currently learning everything !
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about codding
+
+- 📫 How to reach me: mouni.shalaby@gmail.com
+- 🎯 Portfolio site: [Amal-Adv](https://www.amal-adv.com/)
