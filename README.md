@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 
 ## About me 
 - Front-end development using **HTML, Javascript,CSS,Bootstrap**.
-- Wix,Canva & Figma Expert.
-- SEO specialist.
+- **Wix,Canva & Figma Expert**:Worked on the development and implemntation of a new online markrting straegy to increase sales and brand awareness.
+  Evaluated all digital marketing camaigns,completed weekly reports, and pro-actively participated in team meeatings with Mrketing Managers and Executives.
+- **SEO specialist**:A decision maker, with the ability to prioritize and develop relevant and engaging content. You know the old adage, “Content is king?” well, definitely i'm  placing increasing value on quality content – which will invariably include keyword or phrases that increases traffic to a site.
+
+
 - 🌱 I’m currently learning everything !
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about codding
