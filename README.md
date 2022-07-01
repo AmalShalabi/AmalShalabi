@@ -14,7 +14,7 @@ Started out as a medical lab technician. I worked both in Research, and Quality 
 
 That's when I enrolled in the Software Development Certificate program at John Bryce, where I'm learning basics and entry-level computer science courses. Along, I'm taking several online courses in programming and web development and practiced OOP, Data structures, and Design Patterns.
 I learnt to develop modern, responsive, and user friendly web pages.
-I mostly use CSS, HTML, bootstrap and Material Design for the front end.
+I mostly use CSS, HTML ,Javascript and bootstrap for the front end.
 I've recently started learning typescript, Node.js and backend. 
 
 
