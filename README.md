@@ -7,7 +7,19 @@
 
 
 ## About me 
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**.
+Self Driven , Tech Enthusiast.
+Frontend Developer
+
+Started out as a medical lab technician. I worked both in Research, and Quality control in companies' lbs and hopitals. However, I felt uninterested! I wanted to experience more innovation. more problem solving. more development. I wanted to be a developer.
+
+That's when I enrolled in the Software Development Certificate program at John Bryce, where I'm learning basics and entry-level computer science courses. Along, I'm taking several online courses in programming and web development and practiced OOP, Data structures, and Design Patterns.
+I learnt to develop modern, responsive, and user friendly web pages.
+I mostly use CSS, HTML, bootstrap and Material Design for the front end.
+I've recently started learning typescript, Node.js. 
+
+
+
+# Another Skills 
 - **Wix,Canva & Figma Expert**:Worked on the development and implemntation of a new online markrting straegy to increase sales and brand awareness.
   Evaluated all digital marketing camaigns,completed weekly reports, and pro-actively participated in team meeatings with Mrketing Managers and Executives.
 - **SEO specialist**:A decision maker, with the ability to prioritize and develop relevant and engaging content. You know the old adage, “Content is king?” well, definitely i'm  placing increasing value on quality content – which will invariably include keyword or phrases that increases traffic to a site.
