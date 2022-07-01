@@ -8,10 +8,9 @@
 
 ## About me 
 Self Driven , Tech Enthusiast.
-Frontend Developer
+Frontend Developer.
 
 Started out as a medical lab technician. I worked both in Research, and Quality control in companies' labs and hopitals. However, I felt uninterested! I wanted to experience more innovation. more problem solving. more development. I wanted to be a developer.
-
 That's when I enrolled in the Software Development Certificate program at John Bryce, where I'm learning basics and entry-level computer science courses. Along, I'm taking several online courses in programming and web development and practiced OOP, Data structures, and Design Patterns.
 I learnt to develop modern, responsive, and user friendly web pages.
 I mostly use CSS, HTML ,Javascript and bootstrap for the front end.
