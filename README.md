@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/AmalShalabi?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=AmalShalabi&style=for-the-badge)
 
-## I'm a Medical Laboratory Scientist with MSc degree , A digital marketing specialist, and Student Developer .
+## I'm a Medical Lab Technician  with MSc degree , A digital marketing specialist, and Student Developer .
 
 
 ## About me 
