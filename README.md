@@ -2,14 +2,12 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/AmalShalabi?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=AmalShalabi&style=for-the-badge)
+## From Lab Tech to Full Stack: A Story of Transforming Passion into Skills.
 
-## I'm a Medical Lab Technician  with MSc degree , A digital marketing specialist, and Student Developer .
 
 
 ## About me 
-### From Lab Tech to Full Stack: A Story of Transforming Passion into Skills.
-
- ### Frontend Developer.
+### I'm a Medical Lab Technician  with MSc degree , A digital marketing specialist, and Student Developer .
 I began my career as a medical lab technician, working in both research and quality control for companies and hospitals. However, I desired to experience more innovation, problem solving, and development, which led me to pursue a career in web development. I enrolled in the Fullstack Certificate program at John Bryce, where I gained a solid foundation in computer programming and web development. Through various online courses and hands-on experience, I honed my skills in technologies such as React.js, JavaScript, TypeScript, HTML, CSS, Material Ui, JQuery, Node.js, Express, Mongodb & Mongoose. I am now a skilled developer, committed to creating modern, responsive, and user-friendly web pages and apps.
 
 ### Another Skills 
