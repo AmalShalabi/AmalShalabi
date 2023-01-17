@@ -7,17 +7,10 @@
 
 
 ## About me 
-### Self Driven , Tech Enthusiast.
+### From Lab Tech to Full Stack: A Story of Transforming Passion into Skills.
 
  ### Frontend Developer.
-
-Started out as a medical lab technician. I worked both in Research, and Quality control in companies' labs and hopitals. However, I felt uninterested! I wanted to experience more innovation. more problem solving. more development. I wanted to be a developer.
-That's when I enrolled in the Fullstack Certificate program at John Bryce, where I'm learning basics and computer programming course. Along, I'm taking several online web development and practiced OOP and Design Patterns.
-I learnt to develop modern, responsive, and user friendly web pages.
-I mostly use CSS, HTML ,Javascript and bootstrap for the front end.
-I've recently started learning typescript, Node.js and backend. 
-
-
+I began my career as a medical lab technician, working in both research and quality control for companies and hospitals. However, I desired to experience more innovation, problem solving, and development, which led me to pursue a career in web development. I enrolled in the Fullstack Certificate program at John Bryce, where I gained a solid foundation in computer programming and web development. Through various online courses and hands-on experience, I honed my skills in technologies such as React.js, JavaScript, TypeScript, HTML, CSS, Material Ui, JQuery, Node.js, Express, Mongodb & Mongoose. I am now a skilled developer, committed to creating modern, responsive, and user-friendly web pages and apps.
 
 ### Another Skills 
 - **Wix,Canva & Figma Expert**:Worked on the development and implemntation of a new online markrting straegy to increase sales and brand awareness.
