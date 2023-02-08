@@ -7,8 +7,8 @@
 
 
 ## About me 
-### I'm a Medical Lab Technician  with MSc degree , A digital marketing specialist, and Student Developer .
-I began my career as a medical lab technician, working in both research and quality control for companies and hospitals. However, I desired to experience more innovation, problem solving, and development, which led me to pursue a career in web development. I enrolled in the Fullstack Certificate program at John Bryce, where I gained a solid foundation in computer programming and web development. Through various online courses and hands-on experience, I honed my skills in technologies such as React.js, JavaScript, TypeScript, HTML, CSS, Material Ui, JQuery, Node.js, Express, Mongodb & Mongoose. I am now a skilled developer, committed to creating modern, responsive, and user-friendly web pages and apps.
+### I'm a Medical Lab Technician  with MSc degree , A digital marketing specialist, and Full-Stack Developer .
+I began my career as a medical lab technician, working in both research and quality control for companies and hospitals. However, I desired to experience more innovation, problem solving, and development, which led me to pursue a career in web development. I enrolled in the Fullstack Certificate program at John Bryce, where I gained a solid foundation in computer programming and web development. And also through various online courses and hands-on experience, I honed my skills in technologies such as React.js, JavaScript, TypeScript, HTML, CSS, Material Ui, JQuery, Node.js, Express, Mongodb & Mongoose. I am now a skilled developer, committed to creating modern, responsive, and user-friendly web pages and apps.
 
 ### Another Skills 
 - **Wix,Canva & Figma Expert**:Worked on the development and implemntation of a new online markrting straegy to increase sales and brand awareness.
@@ -22,6 +22,9 @@ I began my career as a medical lab technician, working in both research and qual
 <img align="left" alt="CSS3" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="60px" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="60px" "/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60px" />&nbsp;
 <img align="left" alt="React" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
@@ -29,10 +32,6 @@ I began my career as a medical lab technician, working in both research and qual
 <br /><br />
 <br />
 
-
-- 🌱 I’m currently learning everything !
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about codding
 
 - 📫 How to reach me: mouni.shalaby@gmail.com
 - 🎯 Profile site: [Amal-Adv](https://www.amal-adv.com/)
