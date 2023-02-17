@@ -12,8 +12,8 @@ I began my career as a medical lab technician, working in both research and qual
 
 ### Another Skills 
 - **Wix,Canva **:Worked on the development and implemntation of a new online markrting straegy to increase sales and brand awareness.
-  Evaluated all digital marketing camaigns,completed weekly reports, and pro-actively participated in team meeatings with Mrketing Managers and Executives.
-- **SEO specialist**:A decision maker, with the ability to prioritize and develop relevant and engaging content. You know the old adage, “Content is king?” well, definitely i'm  placing increasing value on quality content – which will invariably include keyword or phrases that increases traffic to a site.
+  Evaluated all digital marketing campaigns,completed weekly reports, and pro-actively participated in team meeatings with Mrketing Managers and Executives.
+- **SEO specialist**:A decision maker, with the ability to prioritize and develop relevant and engaging content. You know the old adage, “Content is king?” well, definitely i'm  placing increasing value on quality content – this what will invariably include keyword or phrases that increases traffic to a site.
 
 ## Languages and Tools:
 
